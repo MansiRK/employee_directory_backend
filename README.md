@@ -1,5 +1,8 @@
 # Employee Directory - Backend
 
+# Description
+Develop a simple Employee Directory where users can manage a list of employees, including their name, email, and job role.
+
 # Backend for the Employee Directory application.
 
 # Technologies
